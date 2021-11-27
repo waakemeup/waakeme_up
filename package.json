@@ -1,0 +1,11 @@
+{
+  "name": "node-color",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "colorette": "^2.0.16",
+    "open": "^8.4.0"
+  },
+  "type": "module"
+}
