@@ -1,11 +1,31 @@
 {
-  "name": "node-color",
+  "name": "@waakeme_up/waakeme_up",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "bin": {
+    "waakeme_up": "index.js"
+  },
   "dependencies": {
     "colorette": "^2.0.16",
     "open": "^8.4.0"
   },
-  "type": "module"
+  "type": "module",
+  "description": "play a trick🌈",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waakemeup/waakeme_up.git"
+  },
+  "keywords": [
+    "waakeme_up"
+  ],
+  "author": "waakeme_up",
+  "bugs": {
+    "url": "https://github.com/waakemeup/waakeme_up/issues"
+  },
+  "homepage": "https://github.com/waakemeup/waakeme_up#readme"
 }

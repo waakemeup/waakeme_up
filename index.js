@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import {blue,green,yellow,underline,bgCyanBright,redBright} from 'colorette'
 import open from 'open'
 
