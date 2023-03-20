@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "colorette": "^2.0.16",
-    "open": "^8.4.0"
+    "open": "^9.0.0"
   },
   "type": "module",
   "description": "play a trick🌈",
